@@ -5,5 +5,5 @@ Hi there (are you here to collaborate on my start-up?)! 👋 🚀 Web & Mobile A
 🔥 Featured Projects 🚀 Sniping Bot | A high-speed crypto trading bot. 
 📱Local Televion websit | A website that best describe all programs of a local TV Station. 
 🎮 Snatching Game | A game simulating street survival in Karachi. 
-📬 Let's Connect 💼: 📧 Email:adekunleamos717@gmail.com
+📬 Let's Connect 💼: 📧 Email:justinluga276@gmail.com
 “Code, Innovate, and Build the Future!”
